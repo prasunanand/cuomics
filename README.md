@@ -24,3 +24,9 @@ conda env create --name cuomics_dev --file conda/environments/cuomics_dev.yml
 # activate the environment
 source activate cuomics_dev
 ```
+
+* Install PyVCF
+
+```sh
+pip install PyVCF
+```
