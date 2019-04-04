@@ -30,3 +30,9 @@ source activate cuomics_dev
 ```sh
 pip install PyVCF
 ```
+
+# LICENSE
+
+This software is distributed under the [Apache License 2.0](LICENSE).
+
+Copyright © 2019, Modak Analytics Ltd.
